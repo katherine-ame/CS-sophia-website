@@ -1,0 +1,47 @@
+body{
+	background-color: #F7E1D7;
+}
+.topnav{
+   background-color: #FFFFFF;
+   overflow: hidden;
+}
+
+
+.topnav a {
+   float: left;
+   color: #000000;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #F8D7D0;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #FFFFFF;
+   color: black;
+}
+h1 {
+   color: black;
+}
+
+img {
+border-color: FFFFFF;
+text-align:left;
+font-family:"Times New Roman", serif;
+font-size: 60px;
+}
+
+p {
+   font-family:"Times New Roman", serif;
+}
+
+
+
+
+
+
